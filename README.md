@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Amber🌿 !</h1>
-<h3 align="center">A passionate frontend developer student from Washington State!</h3>
+<h3 align="center">A passionate full stack developer student from Washington State!</h3>
 
 - 🔭 I’m currently working on **TBA**
 
