@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amber !</h1>
 <h3 align="center">A passionate frontend developer student from Washington State!</h3>
 
-- 🔭 I’m currently working on **TBA**
+- 🔭 I’m currently working on a dog rescue site!
 
 - 🌱 I’m currently learning **C#/.NET**
 
