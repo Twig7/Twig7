@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amber !</h1>
 <h3 align="center">A passionate frontend developer student from Washington State!</h3>
 
-- 🔭 I’m currently working on a dog rescue site!
+- 🔭 Prepping for team week!
 
-- 🌱 I’m currently learning **C#/.NET**
+- 🌱 I’m currently wrapping up **C#/.NET**
 
 - 👯 I’m looking to collaborate on [Internships!](https://www.linkedin.com/in/amber-wilwand/)
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Internships!**
 
-- 📫 How to reach me **amberwilwand7@gmail.com**
+- 📫 How to reach me **amoothenielson@gmail.com**
 
 - ⚡ Fun fact **I play maybe too much D&D**
 
